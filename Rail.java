@@ -13,10 +13,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Mezbah Uddin
- */
+
 public class Rail extends javax.swing.JFrame {
 
     /**
