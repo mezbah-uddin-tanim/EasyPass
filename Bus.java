@@ -10,10 +10,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Mezbah Uddin
- */
+
 public class Bus extends javax.swing.JFrame {
 
     /**
