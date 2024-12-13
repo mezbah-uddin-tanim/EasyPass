@@ -17,10 +17,7 @@ import java.text.SimpleDateFormat;
 
 import EasyPass1.Welcome;
 
-/**
- *
- * @author Mezbah Uddin
- */
+
 public class Biman1 extends javax.swing.JFrame {
 
     /**
